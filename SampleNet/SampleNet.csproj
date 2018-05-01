@@ -43,6 +43,8 @@
     <FilesToIncludeForPublish>OnlyFilesToRunTheApp</FilesToIncludeForPublish>
     <DeployOnBuild>true</DeployOnBuild>
     <DeployTarget>Package</DeployTarget>
+    <UserName>Administrator</UserName>
+    <Password>pBFWKkARKr6ykGj4RP%UxRs%dDJAfH-j</Password>
     <PackageAsSingleFile>true</PackageAsSingleFile>
     <DeployIisAppPath>Default Web Site/AppTestEC2</DeployIisAppPath>
   </PropertyGroup>
