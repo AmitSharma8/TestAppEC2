@@ -35,18 +35,12 @@
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
     <DebugType>pdbonly</DebugType>
     <Optimize>true</Optimize>
-    <OutputPath>bin\</OutputPath>
     <DefineConstants>TRACE</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
     <Prefer32Bit>false</Prefer32Bit>
     <FilesToIncludeForPublish>OnlyFilesToRunTheApp</FilesToIncludeForPublish>
-    <DeployOnBuild>true</DeployOnBuild>
-    <DeployTarget>Package</DeployTarget>
-    <UserName>Administrator</UserName>
-    <Password>pBFWKkARKr6ykGj4RP%UxRs%dDJAfH-j</Password>
     <PackageAsSingleFile>true</PackageAsSingleFile>
-    <DeployIisAppPath>Default Web Site/AppTestEC2</DeployIisAppPath>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="Microsoft.CSharp" />
