@@ -350,10 +350,10 @@
           <AutoAssignPort>True</AutoAssignPort>
           <DevelopmentServerPort>51963</DevelopmentServerPort>
           <DevelopmentServerVPath>/</DevelopmentServerVPath>
-          <IISUrl>http://localhost:23088/</IISUrl>
+          <IISUrl>http://3.17.205.29:8172/msdeploy.axd?site=AppDemo/</IISUrl>
           <NTLMAuthentication>False</NTLMAuthentication>
           <UseCustomServer>False</UseCustomServer>
-          <CustomServerUrl>http://localhost/</CustomServerUrl>
+          <CustomServerUrl>http://3.17.205.29:8172/msdeploy.axd?site=AppDemo/</CustomServerUrl>
           <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
         </WebProjectProperties>
       </FlavorProperties>
